@@ -4,9 +4,6 @@ Conducting an internal security audit and monitoring for threats, risks and vuln
 <p>
 <img src="https://i.imgur.com/mxQKYR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Conducting a security internal audit for a fictional company called "Botium Toys"
-</p>
 
 <p>
 <img src="https://i.imgur.com/Dy54HTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
