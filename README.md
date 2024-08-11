@@ -9,9 +9,9 @@ Conducting a security internal audit for a fictional company called "Botium Toys
 </p>
 
 <p>
-<img src="https://imgur.com/Dy54HTN" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/d9ycy63" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://imgur.com/tLzKAcT" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/Dy54HTN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d9ycy63.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/tLzKAcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
 This is Botium Toys Scope, goals and risk assessment report 
@@ -24,7 +24,7 @@ Creating a checklist of what are implemented and what are not implemented for th
 <br />
 
 <p>
-<img src="https://imgur.com/OLSb5yy" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/IPorRcs" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/lp2FiHT" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/NwO77np" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OLSb5yy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IPorRcs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lp2FiHT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NwO77np.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
