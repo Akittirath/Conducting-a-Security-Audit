@@ -2,7 +2,7 @@
 Conducting an internal security audit and monitoring for threats, risks and vulnerabilities that can affect an organization's business continuity and critical assets.
 
 <p>
-<img src="https://imgur.com/mxQKYR9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mxQKYR9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Conducting a security internal audit for a fictional company called "Botium Toys"
